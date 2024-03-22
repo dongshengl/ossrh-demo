@@ -1,4 +1,4 @@
-package com.lds.learn;
+package io.github.dongshengl;
 
 /**
  * Hello world!
