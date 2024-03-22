@@ -102,6 +102,7 @@
     <version>0.4.0</version>
     <extensions>true</extensions>
     <configuration>
+     <!-- 此id对应 settings.xml 中的serverId -->
      <publishingServerId>central</publishingServerId>
      <tokenAuth>true</tokenAuth>
     </configuration>
